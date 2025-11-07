@@ -13,7 +13,6 @@
 <p>
   <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="#"><img alt="Rust" src="https://custom-icon-badges.herokuapp.com/badge/Rust-b7410e.svg?logo=rust&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -50,7 +49,6 @@
     <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/static/v1?message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Kibana" src="https://img.shields.io/static/v1?message=Kibana&color=005571&logo=Kibana&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/static/v1?message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label="></a>  
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="SVN" src="https://img.shields.io/badge/SVN-528AAE?logoColor=white"></a>
